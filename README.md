@@ -6,7 +6,8 @@ The Google Food Searches dataset gives information on the food type, and the ind
 With this information, we can infer answers to questions such as:
 * What time of year are certain foods most popular?
 * Are other events able to be seen in the data such as illness/outbreaks related to a certain type of food? 
-* Are diet trends evident? For example, the emergence of the keto diet?
+* Are diet trends evident? 
+
 
 ## Tools
 * Python 
