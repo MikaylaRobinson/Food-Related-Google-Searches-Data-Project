@@ -4,7 +4,7 @@
 The Google Food Searches dataset gives information on:
 * food type
 * week of the year
-* indexed value representing the level interest
+* indexed value representing the level of interest
 
 With this information, we can infer answers to questions such as:
 * What time of year are certain foods most popular?
