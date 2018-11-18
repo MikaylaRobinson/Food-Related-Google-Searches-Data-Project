@@ -20,4 +20,4 @@ With this information, we can infer answers to questions such as:
 * Jupyter
 
 ## Data source
-https://www.kaggle.com/GoogleNewsLab/food-searches-on-google-since-2004/home
+This data was obtained from [Kaggle](https://www.kaggle.com/GoogleNewsLab/food-searches-on-google-since-2004/home)
